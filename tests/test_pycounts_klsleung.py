@@ -1,4 +1,4 @@
-from pycounts.pycounts import count_words
+from pycounts_klsleung.pycounts_klsleung import count_words
 from collections import Counter
 
 
