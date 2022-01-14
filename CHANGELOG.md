@@ -4,4 +4,4 @@
 
 ## v0.1.0 (13/01/2022)
 
-- First release of `pycounts`!
+- First release of `pycounts_klsleung`!
