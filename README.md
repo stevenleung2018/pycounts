@@ -2,6 +2,10 @@
 
 Calculate word counts in a text file!
 
+## Documentation Hosted Online
+
+https://pycounts-klsleung.readthedocs.io/en/latest/
+
 ## Installation
 
 ```bash
