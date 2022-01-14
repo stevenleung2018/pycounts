@@ -2,9 +2,8 @@
 name = "pycounts_klsleung"
 version = "0.1.0"
 description = "Calculate word counts in a text file!"
-authors = ["Steven Leung"]
+authors = ["Steven Leung <klsleung@student.ubc.ca>"]
 license = "MIT"
-readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"

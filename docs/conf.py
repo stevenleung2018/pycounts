@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts"
+project = u"pycounts_klsleung"
 copyright = u"2022, Steven Leung"
 author = u"Steven Leung"
 
