@@ -9,17 +9,17 @@ https://pycounts-klsleung.readthedocs.io/en/latest/
 ## Installation
 
 ```bash
-$ pip install pycounts
+$ pip install pycounts_klsleung
 ```
 
 ## Usage
 
-`pycounts` can be used to count words in a text file and plot results
+`pycounts_klsleung` can be used to count words in a text file and plot results
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
+from pycounts_klsleung.pycounts_klsleung import count_words
+from pycounts_klsleung.plotting import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
@@ -36,12 +36,12 @@ By contributing to this project, you agree to abide by its terms.
 
 ## License
 
-`pycounts` was created by Tomas Beuzen. It is licensed under the terms
+`pycounts_klsleung` was created by Tomas Beuzen. It is licensed under the terms
 of the MIT license.
 
 ## Credits
 
-`pycounts` was created with 
+`pycounts_klsleung` was created with 
 [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and 
 the `py-pkgs-cookiecutter` 
 [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
